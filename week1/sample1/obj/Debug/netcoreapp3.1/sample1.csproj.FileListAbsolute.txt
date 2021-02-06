@@ -1,0 +1,3 @@
+C:\Users\leila\source\repos\Week1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfoInputs.cache
+C:\Users\leila\source\repos\Week1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfo.cs
+C:\Users\leila\source\repos\Week1\obj\Debug\netcoreapp3.1\sample1.csproj.CoreCompileInputs.cache
